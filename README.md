@@ -20,9 +20,7 @@ Website : https://choidz.github.io
 <img src="https://img.shields.io/badge/linux-FF9E2A?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-0E85CD?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white"> 
 
 > __Award__ 🏆
-- 민갑룡 경찰청장 표창 
-- Programmer Catch 
-- University Ucc Project 대상
+- 
 
 > __Project__ 📔
 - 
